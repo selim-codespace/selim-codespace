@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://sselim.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selim-codespace)
 
-<img src="https://komarev.com/ghpvc/?username=mohammad-selim03&label=Profile%20Views&color=61dafb&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=selim-codespace&label=Profile%20Views&color=61dafb&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -60,7 +60,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
       <p>Built role-based dashboards for students, teachers, and admins using modular React components and Firebase Authentication.</p>
       <p>✨ <strong>Refined load speed by 42%</strong>, increasing user retention by 15%</p>
       <br>
-      <a href="https://github.com/mohammad-selim03/Eduspark" target="_blank">
+      <a href="https://github.com/selim-codespace/Eduspark" target="_blank">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
       </a>
       <a href="https://nill-eduspark.netlify.app/" target="_blank">
@@ -73,7 +73,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
       <p>Developed a real-time job application and skill-based search system.</p>
       <p>⚡ <strong>Reduced search query time by 65%</strong>, improving user engagement and response speed.</p>
       <br>
-      <a href="https://github.com/mohammad-selim03/job-board-platform" target="_blank">
+      <a href="https://github.com/selim-codespace/job-board-platform" target="_blank">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
       </a>
       <a href="https://nill-job-board.netlify.app/" target="_blank">
@@ -87,7 +87,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
       <p><strong>React • JavaScript • Tailwind CSS</strong></p>
       <p>A comprehensive travel platform for exploring Thailand's destinations, culture, and experiences.</p>
       <br>
-      <a href="https://github.com/mohammad-selim03/thai-explorer" target="_blank">
+      <a href="https://github.com/selim-codespace/thai-explorer" target="_blank">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
       </a>
       <a href="https://thai-travel.netlify.app/" target="_blank">
@@ -99,7 +99,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
       <p><strong>React • JavaScript • Tailwind CSS</strong></p>
       <p>Interactive sports car showcase platform with detailed specifications and filtering capabilities.</p>
       <br>
-      <a href="https://github.com/mohammad-selim03/sports-carhubb" target="_blank">
+      <a href="https://github.com/selim-codespace/sports-carhubb" target="_blank">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
       </a>
       <a href="https://sports-carhub.netlify.app/" target="_blank">
@@ -113,7 +113,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
       <p><strong>React • TypeScript • Tailwind CSS</strong></p>
       <p>Advanced task management UI with team collaboration features and real-time updates.</p>
       <br>
-      <a href="https://github.com/mohammad-selim03/stride-task-sync-52" target="_blank">
+      <a href="https://github.com/selim-codespace/stride-task-sync-52" target="_blank">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
       </a>
       <a href="https://team-master.netlify.app/" target="_blank">
@@ -125,7 +125,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
       <p><strong>React • JavaScript • Tailwind CSS</strong></p>
       <p>Gaming subscription platform with user authentication and subscription management.</p>
       <br>
-      <a href="https://github.com/mohammad-selim03/gaming-platform" target="_blank">
+      <a href="https://github.com/selim-codespace/gaming-platform" target="_blank">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
       </a>
       <a href="https://vanguardd-boost.netlify.app/" target="_blank">
@@ -195,17 +195,17 @@ Frontend Engineer with **1+ years of experience** building scalable applications
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammad-selim03&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mohammad-selim03&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=selim-codespace&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=selim-codespace&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-selim03&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=mohammad-selim03&theme=react&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selim-codespace&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=selim-codespace&theme=react&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-selim03&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selim-codespace&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
