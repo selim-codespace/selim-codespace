@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Engineer+%7C+React+%7C+Next.js;Building+Scalable+Web+Applications;Performance+Optimization+Expert;Always+Learning+New+Things&font=Fira%20Code&center=true&width=600&height=50&color=61DAFB&vCenter=true&pause=1000&size=20)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-codes.selim%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codes.selim@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/mohammad-selim-3920a3362)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/dev-selim)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://sselim.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selim-codespace)
 
