@@ -16,49 +16,49 @@
 
 ---
 
-## 📋 Professional Summary
+## Summary
 
 Frontend Engineer with **1+ years of experience** building scalable applications using **React.js**, **Next.js**, and **TypeScript**. Proven success in performance optimization, reusable component design, and API integrations. Strong focus on accessibility, clean architecture, and modern frontend engineering practices.
 
-🎯 **Seeking:** A role where I can contribute to high-impact product development within an agile engineering team.
+**Seeking:** A role where I can contribute to high-impact product development within an agile engineering team.
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-### 🏢 **SOFTVENCE IT LTD** | Frontend Developer
-📍 Dhaka, Bangladesh | 📅 Nov 2024 – Present
+### **SOFTVENCE IT LTD** | Frontend Developer
+Dhaka, Bangladesh | Nov 2024 – Present
 
-- ✅ Built and maintained **3 client-facing web applications** using Next.js 15, TypeScript, and Tailwind CSS
-- 🚀 Boosted **Largest Contentful Paint (LCP)** from 4.2s to 1.8s through performance optimizations
-- 📉 Reduced user flow bounce rate by **30%** through strategic UI/UX improvements
-- 📦 Created a **reusable React component library** reducing development time by **40%**
+-  Built and maintained **3 client-facing web applications** using Next.js 15, TypeScript, and Tailwind CSS
+-  Boosted **Largest Contentful Paint (LCP)** from 4.2s to 1.8s through performance optimizations
+-  Reduced user flow bounce rate by **30%** through strategic UI/UX improvements
+-  Created a **reusable React component library** reducing development time by **40%**
 
-### 🏢 **INNOVATE INTERNATIONAL LTD** | Software Engineer (Trainee)
-📍 Dhaka, Bangladesh | 📅 Mar 2024 – Oct 2024
+###  **INNOVATE INTERNATIONAL LTD** | Software Engineer (Trainee)
+ Dhaka, Bangladesh |  Mar 2024 – Oct 2024
 
-- 🔐 Enhanced role-based dashboards (Student/Teacher/Admin) using React, TypeScript, and Firebase Auth
-- 🤝 Collaborated in **Agile team** (Jira, daily standups) to ship **4 major releases** and prioritize roadmap features
+-  Enhanced role-based dashboards (Student/Teacher/Admin) using React, TypeScript, and Firebase Auth
+-  Collaborated in **Agile team** (Jira, daily standups) to ship **4 major releases** and prioritize roadmap features
 
 ---
 
-## 🎓 Education
+##  Education
 
 **CANADIAN UNIVERSITY OF BANGLADESH**  
-🎓 Bachelor of Science in Computer Science and Engineering  
-📍 Dhaka, Bangladesh | 📅 Expected May 2027
+ Bachelor of Science in Computer Science and Engineering  
+ Dhaka, Bangladesh |  Expected May 2027
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <h3>📚 EDUSPARK</h3>
+      <h3> EDUSPARK</h3>
       <p><strong>React • TypeScript • Firebase • Tailwind CSS</strong></p>
       <p>Built role-based dashboards for students, teachers, and admins using modular React components and Firebase Authentication.</p>
-      <p>✨ <strong>Refined load speed by 42%</strong>, increasing user retention by 15%</p>
+      <p> <strong>Refined load speed by 42%</strong>, increasing user retention by 15%</p>
       <br>
       <a href="https://github.com/selim-codespace/Eduspark" target="_blank">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
@@ -68,10 +68,10 @@ Frontend Engineer with **1+ years of experience** building scalable applications
       </a>
     </td>
     <td align="center" valign="top" width="50%">
-      <h3>💼 JOB BOARD PLATFORM</h3>
+      <h3>JOB BOARD PLATFORM</h3>
       <p><strong>React • TypeScript • Firebase • Tailwind CSS</strong></p>
       <p>Developed a real-time job application and skill-based search system.</p>
-      <p>⚡ <strong>Reduced search query time by 65%</strong>, improving user engagement and response speed.</p>
+      <p><strong>Reduced search query time by 65%</strong>, improving user engagement and response speed.</p>
       <br>
       <a href="https://github.com/selim-codespace/job-board-platform" target="_blank">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code">
@@ -83,7 +83,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <h3>🌏 THAI EXPLORER</h3>
+      <h3> THAI EXPLORER</h3>
       <p><strong>React • JavaScript • Tailwind CSS</strong></p>
       <p>A comprehensive travel platform for exploring Thailand's destinations, culture, and experiences.</p>
       <br>
@@ -95,7 +95,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
       </a>
     </td>
     <td align="center" valign="top" width="50%">
-      <h3>🏎️ SPORTS CARHUB</h3>
+      <h3> SPORTS CARHUB</h3>
       <p><strong>React • JavaScript • Tailwind CSS</strong></p>
       <p>Interactive sports car showcase platform with detailed specifications and filtering capabilities.</p>
       <br>
@@ -109,7 +109,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <h3>✅ STRIDE TASK SYNC</h3>
+      <h3> STRIDE TASK SYNC</h3>
       <p><strong>React • TypeScript • Tailwind CSS</strong></p>
       <p>Advanced task management UI with team collaboration features and real-time updates.</p>
       <br>
@@ -121,7 +121,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
       </a>
     </td>
     <td align="center" valign="top" width="50%">
-      <h3>🎮 GAMING PLATFORM</h3>
+      <h3> GAMING PLATFORM</h3>
       <p><strong>React • JavaScript • Tailwind CSS</strong></p>
       <p>Gaming subscription platform with user authentication and subscription management.</p>
       <br>
@@ -137,7 +137,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 ### 🧩 Frontend Development
 <div align="left">
@@ -153,14 +153,14 @@ Frontend Engineer with **1+ years of experience** building scalable applications
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
 </div>
 
-### 🔄 State Management & Data Fetching
+###  State Management & Data Fetching
 <div align="left">
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="40" alt="Redux" title="Redux"/>
   <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" height="40" alt="TanStack Query" title="TanStack Query"/>
   <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="40" alt="Zustand" title="Zustand"/>
 </div>
 
-### ⚙️ Backend & APIs
+###  Backend & APIs
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js"/>
@@ -169,7 +169,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
   <img src="https://jwt.io/img/pic_logo.svg" height="40" alt="JWT" title="JWT"/>
 </div>
 
-### 🛠️ Development Tools
+###  Development Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>
@@ -182,17 +182,17 @@ Frontend Engineer with **1+ years of experience** building scalable applications
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="Webpack" title="Webpack"/>
 </div>
 
-### 🧪 Testing & Methodologies
+###  Testing & Methodologies
 <div align="left">
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" title="Jest"/>
 </div>
 
-**📚 Currently Learning:** AI Integration, Frontend Testing (Jest, React Testing Library)  
-**🎯 Methodologies:** Agile, Scrum, Code Review, Component-Driven Development
+** Currently Learning:** AI Integration, Frontend Testing (Jest, React Testing Library)  
+** Methodologies:** Agile, Scrum, Code Review, Component-Driven Development
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=selim-codespace&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -210,7 +210,7 @@ Frontend Engineer with **1+ years of experience** building scalable applications
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -227,8 +227,8 @@ Frontend Engineer with **1+ years of experience** building scalable applications
 
 <div align="center">
   
-### 💡 *"Building the web, one component at a time"* 💡
+###  *"Building the web, one component at a time"* 
 
-⭐ **Feel free to star my repositories if you find them helpful!** ⭐
+**Feel free to star my repositories if you find them helpful!** 
 
 </div>
