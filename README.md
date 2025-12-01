@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-codes.selim%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codes.selim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/mohammad-selim-3920a3362)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://your-portfolio-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammad-selim03)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selim-codespace)
 
 <img src="https://komarev.com/ghpvc/?username=mohammad-selim03&label=Profile%20Views&color=61dafb&style=for-the-badge" alt="Profile views" />
 
