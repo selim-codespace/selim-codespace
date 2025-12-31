@@ -1,7 +1,7 @@
 <div align="center">
 
-#  Mohammad Selim
-### A Frontend Engineer
+#  Mohammad Selim 
+### A Frontend Engineer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+Engineer+%7C+React+%7C+Next.js;Building+Scalable+Web+Applications;Performance+Optimization+Expert;Always+Learning+New+Things&font=Fira%20Code&center=true&width=600&height=50&color=61DAFB&vCenter=true&pause=1000&size=20)](https://git.io/typing-svg)
 
