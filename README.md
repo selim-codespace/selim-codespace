@@ -1,6 +1,5 @@
-<div align="center">
-
 Note: Amazing works are hidden to maintain clients privacy
+<div align="center">
 
 #  Mohammad Selim 
 ### A Frontend Engineer 
