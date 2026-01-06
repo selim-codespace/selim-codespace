@@ -1,5 +1,7 @@
 <div align="center">
 
+Note: Amazing works are hidden to maintain clients privacy
+
 #  Mohammad Selim 
 ### A Frontend Engineer 
 
