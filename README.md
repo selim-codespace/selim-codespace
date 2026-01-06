@@ -1,4 +1,4 @@
-<p style={{color:"red"}}>Note:</p> <b>Amazing works</b> are hidden to maintain clients privacy
+<span style={{color:"red"}}>Note: Our most impressive works are not shown publicly to protect client privacy.acy
 <div align="center">
 
 #  Mohammad Selim 
