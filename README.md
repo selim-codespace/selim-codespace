@@ -1,4 +1,4 @@
-Note: Amazing works are hidden to maintain clients privacy
+Note: <b>Amazing works</b> are hidden to maintain clients privacy
 <div align="center">
 
 #  Mohammad Selim 
