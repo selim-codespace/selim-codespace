@@ -1,4 +1,4 @@
-Note: <b>Amazing works</b> are hidden to maintain clients privacy
+<span style={{color:red}}>Note:</span> <b>Amazing works</b> are hidden to maintain clients privacy
 <div align="center">
 
 #  Mohammad Selim 
