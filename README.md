@@ -1,4 +1,4 @@
-Note: Our most impressive works are not shown publicly to protect client privacy. 
+Note: My most impressive works are not shown publicly to protect client privacy. 
 <div align="center">
 
 #  Mohammad Selim 
