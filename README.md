@@ -1,4 +1,4 @@
-<span style={{color:"red"}}>Note: </span> Our most impressive works are not shown publicly to protect client privacy. 
+Note: Our most impressive works are not shown publicly to protect client privacy. 
 <div align="center">
 
 #  Mohammad Selim 
