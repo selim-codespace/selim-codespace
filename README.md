@@ -1,4 +1,4 @@
-<span style={{color:"red"}}>Note: Our most impressive works are not shown publicly to protect client privacy.acy
+<span style={{color:"red"}}>Note: Our most impressive works are not shown publicly to protect client privacy. </span>
 <div align="center">
 
 #  Mohammad Selim 
